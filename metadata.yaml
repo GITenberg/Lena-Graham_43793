@@ -1,0 +1,41 @@
+_repo: Lena-Graham_43793
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Scannell, Edith
+    alias: Scannell, E. M. S. (Edith Maud Susanna)
+    birthdate: 1852
+    deathdate: 1940
+    gutenberg_agent_id: '42411'
+    url: http://www.gutenberg.org/2009/agents/42411
+covers:
+- cover_type: archival
+  image_path: 43793-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Lowndes, Cecilia Selby
+    alias: Lowndes, Selby
+    gutenberg_agent_id: '42410'
+    url: http://www.gutenberg.org/2009/agents/42410
+description: ''
+gutenberg_issued: '2013-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Romance fiction'
+- !lcsh 'Empathy -- Juvenile fiction'
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: Lena Graham
+url: http://www.gutenberg.org/ebooks/43793
